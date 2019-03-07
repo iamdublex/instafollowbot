@@ -32,7 +32,7 @@ def genName():
 
     genime = ''.join(random.choice(fNames) + random.choice(lNames))
     global genuser
-    genuser = ''.join(genime + random.choice(nastavci))
+    genuser = ''.join(genime + random.choice(characters))
     print(genuser)
     return genime
 
