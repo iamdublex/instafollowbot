@@ -16,7 +16,7 @@ pr = p.read()
 proxies = pr.splitlines()
 
 #input your totating proxie into #here
-rproxie = "p.webshare.io:19999"
+rproxie = "#here"
 
 #variables
 i = 0
@@ -44,7 +44,7 @@ def username():
 
 def generatePassword():
     #Edit in password to use into #here
-    password = "lozinka1234"
+    password = "#here"
     return password
 
 def genEmail() :
