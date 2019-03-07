@@ -1,0 +1,2 @@
+developted by IAmDubleX
+required: selenium, fake useragent
