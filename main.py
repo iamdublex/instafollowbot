@@ -43,7 +43,7 @@ def username():
 
 def generatePassword():
     #Edit in password to use into #here
-    password = "#here"
+    password = "zanimljivasifra"
     return password
 
 def genEmail() :
